@@ -1,0 +1,6 @@
+D18CQCN01|N18DCCN016|Nguyen Van|Binh|Nam|123
+D18CQCN01|N18DCCN124|Nguyen Van|Tien|Nam|123
+D18CQCN01|N18DCCN112|Phan Dinh Hoang|Long|Nam|123
+D18CQCN01|N18DCCN017|Le Phuoc|Cuong|Nam|123
+12A9|1|Cai Trong|Vien|Nam|123
+12A9|2|Nguyen Thi|Nhung|Nu|123

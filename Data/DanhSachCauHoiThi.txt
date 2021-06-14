@@ -1,0 +1,63 @@
+2|TOAN|Thay cac chu a, b, c bang cac chu so khac nhau va khac 0 sao cho: 1/abc = 1/(a+b+c)|a=1, b=2, c=5|a=1, b=2, c=3|a=1, b=2, c=4|a=1, b=3, c=6|B
+5|KTMT|Bo nho chinh duoc lam chu yeu tu:|Ram tinh|Flash Rom|Rom|Ram dong|D
+7|KTMT|Khai niem stored - program de cap den|Cac tac vu chu yeu cua 1 CPU|Nguyen ly thuc thi chuong trinh tu dong|Cac trang thai hoat dong trong chu ky chi thi|Nguyen ly truy xuat noi dung trong bo nho|B
+11|KTMT|Trong chu ky chi thi, chu ky nap chi thi ket thuc tai trang thai?|Xu ly chi thi|ghi bo nho|Giai ma chi thi|Tinh toan dia chi cua toan hang (operands)|C
+13|KTMT|Chi thi cua may tinh John Von Neumann co|40 bit|20 bit|32 bit|16 bit|B
+17|KTMT|Trang thai nao sau day khong thuoc ve chu ky thuc thi chi thi?|Tinh toan dia toan hang|Giai ma chi thi|Tinh toan dia chi chi thi|Luu ket qua|B
+19|KTMT|Trong chu ky chi thi cua may tinh co ban ban dau|Co 5 trang thai hoat dong khong dien ra trong CPU|Co 3 trang thai hoat dong khong dien ra trong CPU|Co 4 trang thai hoat dong khong dien ra trong CPU|Co 2 trang thai hoat dong khong dien ra trong CPU|B
+23|KTMT|Dau la dac trung cua kien truc Von Neumann|Dung general - purpose hardware|Chi thi va du lieu dung chung bo nho|Co 4 thanh phan chinh la CPU, I/O, Bus, Memory|Dung stored - program|C
+29|KTMT|Dau la phat bieu dung ve bo nho cache|Cache khong phai la thanh phan cua Main memory|Cache duoc lam tu Ram dong|Cache la thanh phan cua Main memory|CPU co the truy xuat cache mot cach truc tiep|A
+31|KTMT|Chu ki lam tuoi can cho|Ram dong|Ram tinh|Flash Rom|EPROM|A
+37|KTMT|Trong mo hinh may tinh Hardvard|Khong co thanh phan I/O|Chi thi va du lieu khong dung chung bus|Chi co thanh phan bo nho thu cap|Data bus la chung cho ca chi thi va du lieu|B
+42|SU|To chuc nao sau day khong phai la to chuc cua Lien hop quoc?|WHO|UNICEF|UNESCO|WTO|D
+45|TA|_______ your book!|Listen|Stand|Come|Open|D
+58|TA|Which word is the odd one out?|Pretty|Beautiful|Sympathetic|Good - looking|C
+70|DO|Trong tac pham "Nho Rung" cua The Lu khi say con ho da uong cai gi?|Anh trang tan|Nuoc suoi|Ruou|Khong uong gi|A
+101|KTMT|Trinh bien dich dong vai tro|Qui dinh len tap tin hieu dieu khien|Tao tap chi thi cho may tinh|Thuc thi chuong trinh may tinh|Nap chi thi cho may tinh|A
+109|KTMT|May tinh ENIAC la may tinh|Do Bo giao duc My dat hang|La may tinh ra doi vao nhung nam 1970|Dung vi mach co nho va co vua|La may tinh dau tien tren the gioi|D
+137|TA|How _____ is your little brother? - Hes three years old?|Many|Much|Years|Old|D
+173|TA|They often play soccer in the ______.|Schoolgate|Schoolyard|Schoolmate|Schoolwork|B
+178|TA|_______ do you live? - In Hue city.|Who|Where|When|Why|B
+198|TRR2|Chon cau tra loi dung nhat ve do phuc tap cua thuat toan BFS|O(n^2) trong truong hop do thi duoc bieu dien duoi dang ma tran ke|O(n.m) trong truong hop do thi bieu dien duoi dang danh sach canh|O(max(n,m)) trong truong hop do thi duoc bieu dien duoi dang danh sach ke|Tat ca dap an deu dung|D
+203|SU|Cuoc chien tranh chong Mi keo dai bao nhieu nam?|8|9|10|11|C
+210|TRR2|Voi do thi vo huong ta co the ket luan do thi lien thong khi?|DFS(u) = V hoac BFS(u) = V|Nothing|Nothing|Nothing|A
+212|TA|What does Ms. Julie do? Shes ______ teacher at a big school.|One|Nothing|A|An|A
+238|TA|Which word is the odd one out?|Book|Pencil|Friend|Ruler|C
+247|TRR2|Chon cau dung nhat ve do phuc tap cua thuat toan DFS|O(n) trong truong hop do thi duoc bieu dien duoi dang ma tran ke|O(n.m) trong truong hop do thi duoc bieu dien duoi dang danh sach canh|O(max(n,m)) trong truong hop do thi duoc bieu dien duoi dang danh sach ke|Khong co dap an nao sai|D
+282|SU|Nguyen nhan chu yeu dan den xung dot vu trang trong thoi ki sau chien tranh lanhla?|Mau thuan ve sac toc, ton giao va tranh chap lanh tho|Do van de nang luong nguyen tu va vu khi hat nhan|Su dua tranh cua cac cuong quoc trong viec thiet lap trat tu the gioi moi|Do tac dong cua chu nghia khung bo quoc te|A
+293|TA|Which word contains the sound /e/?|Open|Ruler|Student|Desk|D
+301|TA|_______ people are there in your family?|How long|How far|How much|How many|D
+324|TA|What are _____? - Theyre stools.|This|That|There|They|D
+333|SU|Ngay giai phong mien nam thong nhat dat nuoc?|30/4|1/5|1/6|26/3|A
+348|DO|Vu dieu truyen thong cua dao Hawaii la gi?|Dieu nhay Hula|Dieu nhay Cha Cha Cha|Dieu nhay Samba|Vu dieu Tango|A
+382|TA|Which sentence is correct?|No take photographs.|No taking photographs.|Don't take photographs.|Don't to take photographs.|C
+428|TA|This is a photo ______ my school.|Of|On|Up|By|A
+444|TOAN|Trong hop co 40 vien bi, trong do co 24 vien bi xanh. Ti so phan tram cua so bi xanh va so bi trong hop la bao nhieu|20%|40%|60%|80%|C
+472|TA|Whats your fathers name? ______ name is Hung.|He|His|She|Her|B
+555|TOAN|Nam nay tuoi bo gap 3 lan tuoi con va bo hon con 40 tuoi. Hoi 15 nam sau tuoi cua bo la?|80|25|60|75|D
+561|SU|Vi sao nhung nam 60 - 70 cua the ki XX, nhom 5 nuoc sang lap ASEAN phai chuyen sang chien luoc kinh te doi ngoai?|Can cai thien quan he voi cac nuoc Dong Duong|Khong muon phu thuoc vao von va thi truong ben ngoai|Muon han che anh huong cua cac cuong quoc ben ngoai doi voi khu vuc|Chien luoc kinh te huong noi khong con phu hop, boc lo nhieu han che|D
+564|TOAN|Hom nay la thu 5. Hoi 100 ngay sau la thu may trong tuan?|Thu tu|Thu sau|Thu nam|Thu bay|D
+566|TA|What are _______ ? - Theyre pencils.|This|That|Those|Them|C
+571|TA|What ______ ?|Does window mean|Mean window|It means window|Is the meaning window|A
+578|TA|______ is that? - My brother|Which|Who|What|When|B
+581|DO|Khi gap Thuy Kieu, Kim Trong da trao vat gi lam tin?|Dai yem|Mieng lua|Chiec cham cai toc|Chiec khan hong|D
+598|SU|Y nao duoi day khong dung ve li do dan den su ra doi cua Hiep hoi cac quoc gia Dong Nam A (ASEAN)?|Cac nuoc trong khu vuc gap nhieu kho khan dat ra nhu cau hop tac cung phat trien|Lien ket voi nhau de han che anh huong cua cac cuong quoc ben ngoai khu vuc|Su hoat dong hieu qua cua cac to chuc khu vuc tren the gioi da co vu|Truoc tham vong cua Trung Quoc ve Bien Dong, buoc cac nuoc phai lien ket lai|D
+610|TA|What _____ those, Bin? - There armchairs.|Does|Do|Is|Are|D
+615|DO|Vinh nao cua Viet Nam duoc coi la 1 trong 3 vinh dep nhat the gioi?|Vinh Ha Long|Vinh Lang Co|Vinh Xuan Dai|Vinh Cam Ranh|A
+666|SU|Cuoc chien tranh the gioi thu II ket thuc vao nam nao?|1965|1945|2000|1932|B
+683|TA|Lets _____ to the cinema.|Going|To go|Go|Goes|C
+707|TA|Theyre my friends. ______ names are Ted and Mark.|Them|They|Theirs|Their|D
+715|SU|Viet Nam gia nhap Lien hop quoc vao thoi gian nao va la thanh vien thu bao nhieucua to chuc Lien Hop Quoc?|Thang 7/1995, thanh vien thu 148|Thang 7/1975, thanh vien thu 149|Thang 9/1997, thanh vien thu 149|Thang 9/1977, thanh vien thu 150|C
+728|DO|Quoc hieu dau tien cua nuoc ta la gi?|Van Lang|Dai Viet|Dai Nam|Dap an khac|A
+768|TA|Whats your favorite _______? - Oh, Maths, I think.|Teacher|Friend|Subject|Letter|C
+777|SU|Ngay sinh cua Chu Tich Ho Chi Minh la?|13/11|26/4|1/5|19/5|D
+821|TA|_______ students are there in your class? - Forty.|Why|How much|How many|Who|C
+837|TA|How many windows _____ in your class?|Are there|There are|There isn't|There aren't|A
+838|TA|_______ ? - From Japan.|Where are you come from?|Where do you come from?|Where are you coming from?|From where you come?|B
+882|SU|Viec Lien Xo che tao thanh cong boom nguyen tu co y nghia gi?|Khang dinh vai tro to lon cua Lien Xo trong phong trao cach mang the gioi|The gioi buoc vao thoi dai chien tranh hat nhan|Pha vo the doc quyen vu khi nguyen tu cua Mi|Lien Xo tro thanh nuoc dau tien so huu vu khi hat nhan|C
+888|TOAN|Trong cac so duoi day so nao khong thuoc day: 1, 4, 7, 10, 13, ...|1000|1234|2007|100|C
+912|TA|I live ______ an apartment.|In|For|Up|With|A
+968|TA|______ does your mother do? - Shes an engineer.|Where|Who|What|Which|C
+981|TA|This is my school _______. I have Literature on Tuesday.|Notebook|Timetable|Lesson|Professor|B
+991|TOAN|So nho nhat co bon chu so la?|1011|1001|1000|1111|C
+998|TOAN|Tim quy luat va cho biet con so tiep theo la bao nhieu? 8, 20, 44, 92, ...|184|188|192|200|B

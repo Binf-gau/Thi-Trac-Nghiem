@@ -1,0 +1,14 @@
+TOAN|Toan Hoc
+SU|Lich Su
+KTMT|Kien Truc May Tinh
+TA|Tieng Anh
+CTDL|Cau Truc Du Lieu Va Giai Thuat
+TTNT|Tri Tue Nhan Tao
+GT1|Giai Tich 1
+GT2|Giai Tich 2
+XSTK|Xac Suat Thong Ke
+THCS2|Ngon Ngu Lap Trinh C++
+VL1|Vat Ly 1 Va Trac Nghiem
+VL2|Vat Ly 2 Va Trac Nghiem
+TRR2|Toan Roi Rac 2
+DO|Do Vui Kien Thuc
